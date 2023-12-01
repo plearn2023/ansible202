@@ -1,0 +1,5 @@
+# create a pansible user
+- name: create a pansible user on any machine
+  hosts: webservers
+  become: true
+  
