@@ -10,3 +10,4 @@ alias ssha='eval $(ssh-agent) && ssh-add'
 sudo apt install virtualbox-guest-utils -y
 # add yourself to vboxsf
 sudo adduser preetam vboxsf
+alias sshap='eval $(ssh-agent) && ssh-add'
