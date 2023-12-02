@@ -1,0 +1,26 @@
+a. If nothing is specified, Ansible looks for a file
+with the name inventory in the current
+directory.
+
+b. Ansible tells you that no inventory hosts
+could be found. (wrong)
+
+d. /etc/ansible/hosts
+
+a. It must be executable. (wrong)
+
+c. When the name of a directory is specified as
+the inventory that has to be used, all files in
+that directory are used as inventory.
+
+a. Variables that apply to specific hosts
+
+d. Privilege escalation can be specified in the
+inventory file.
+
+c. In the project directory
+
+d. Without a remote_user setting, Ansible won’t
+work correctly. (wrong)
+
+a. host_key_checking
